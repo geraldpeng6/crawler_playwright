@@ -1,0 +1,4 @@
+url,name,category,processed
+https://www.djangoproject.com/,Django,Framework,1
+https://flask.palletsprojects.com/,Flask,Framework,1
+https://fastapi.tiangolo.com/,FastAPI,Framework,1

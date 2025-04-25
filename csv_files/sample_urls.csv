@@ -1,0 +1,6 @@
+url,name,category,processed
+https://www.reddit.com/r/Python/,Reddit Python,Forum,t
+https://news.ycombinator.com/,Hacker News,News,t
+https://github.com/trending/python,GitHub Python Trending,Code,t
+https://stackoverflow.com/questions/tagged/python,Stack Overflow Python,Q&A,t
+https://dev.to/t/python,Dev.to Python,Blog,t
